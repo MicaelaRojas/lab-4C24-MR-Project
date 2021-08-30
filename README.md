@@ -1,2 +1,3 @@
-# Laboratorio No2 
+# Laboratorio No2
+## Inicio
 Micaela Rojas
